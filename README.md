@@ -2,10 +2,12 @@
 
 My first game jam, organized by the Robert Schuman IUT.
 
+The game jam :
  - Duration : 2 days
  - Subject : Fakarava - minimalist
  - Download link : https://pierre-even.itch.io/le-postier-de-fakarava
 
+Development : 
  - 3D models & Level design by Mathieu Voyer
  - Music & sound by Mathieu Voyer & Pierre Even
  - Gameplay & game concept by Mathieu Voyer & Pierre Even
