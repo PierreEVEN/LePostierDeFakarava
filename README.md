@@ -8,6 +8,7 @@ My first game jam, organized by the Robert Schuman IUT.
 
 ### Videos
 
+Homemade light modele
 [![](https://github.com/PierreEVEN/LePostierDeFakarava/blob/master/Showcase/LePostierDeFakarava.gif?raw=true)](https://youtu.be/27ZOmsAE9dw)
 
 ### Pictures
