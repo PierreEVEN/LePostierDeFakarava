@@ -1,5 +1,6 @@
 
 
+
 # LePostierDeFakarava [V1]
 
 My first game jam, organized by the Robert Schuman IUT.
@@ -40,15 +41,19 @@ Here is my result:
 
 ## videos
 
+<!--
 advanced flight model
 
-[![](https://github.com/PierreEVEN/LePostierDeFakarava/blob/master/Showcase/LePostierDeFakarava.gif?raw=true)](https://youtu.be/KB5aJOP5bAw)
-
-[![](https://media.giphy.com/media/9ytvGjFNzcZDg5cMpD/giphy.gif)](https://youtu.be/RBLLOgNFu6o)
+[![](https://github.com/PierreEVEN/LePostierDeFakarava/blob/master/Showcase/LePostierDeFakarava.gif?raw=true)](https://youtu.be/KB5aJOP5bAw) 
+[![](https://media.giphy.com/media/9ytvGjFNzcZDg5cMpD/giphy.gif)]()
 
 Landscape generation (some minor shaders issues)
 
-[![](https://media.giphy.com/media/NSiFqEER4qDHHtZMEX/giphy.gif)](https://youtu.be/xz3EQgNm2sE)
+[![](https://media.giphy.com/media/NSiFqEER4qDHHtZMEX/giphy.gif)](https://youtu.be/xz3EQgNm2sE) -->
+
+https://youtu.be/KB5aJOP5bAw
+https://youtu.be/RBLLOgNFu6o
+https://youtu.be/xz3EQgNm2sE
 
 ## pictures
 
