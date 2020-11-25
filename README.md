@@ -6,12 +6,9 @@ My first game jam, organized by the Robert Schuman IUT.
  - Subject : Fakarava - minimalist
  - Download link : https://pierre-even.itch.io/le-postier-de-fakarava
 
-
-3D models & Level design by Mathieu Voyer
-
-Music & sound by Mathieu Voyer & Pierre Even
-
-Gameplay & game concept by Mathieu Voyer & Pierre Even
+ - 3D models & Level design by Mathieu Voyer
+ - Music & sound by Mathieu Voyer & Pierre Even
+ - Gameplay & game concept by Mathieu Voyer & Pierre Even
 
 ### Videos
 
