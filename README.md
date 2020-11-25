@@ -8,7 +8,9 @@ My first game jam, organized by the Robert Schuman IUT.
 
 
 3D models & Level design by Mathieu Voyer
+
 Music & sound by Mathieu Voyer & Pierre Even
+
 Gameplay & game concept by Mathieu Voyer & Pierre Even
 
 ### Videos
