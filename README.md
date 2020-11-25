@@ -40,7 +40,11 @@ Here is my result:
 
 ## videos
 
-[wip]
+advanced flight model
+[![](https://github.com/PierreEVEN/LePostierDeFakarava/blob/master/Showcase/LePostierDeFakarava.gif?raw=true)](https://youtu.be/KB5aJOP5bAw)
+[![](https://media.giphy.com/media/9ytvGjFNzcZDg5cMpD/giphy.gif)](https://youtu.be/RBLLOgNFu6o)
+Landscape generation (some minor shaders issues)
+[![](https://media.giphy.com/media/NSiFqEER4qDHHtZMEX/giphy.gif)](https://youtu.be/xz3EQgNm2sE)
 
 ## pictures
 
