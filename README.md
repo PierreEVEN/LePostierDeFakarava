@@ -1,6 +1,9 @@
+
 # LePostierDeFakarava [V1]
 
 My first game jam, organized by the Robert Schuman IUT.
+
+*(disclaimer : this repository is mainly a chowcase of one of my projects. It only contains a part of the C++ code from the V2)*
 
 The game jam :
  - Duration : 2 days
@@ -11,6 +14,7 @@ Development :
  - 3D models & Level design by Mathieu Voyer
  - Music & sound by Mathieu Voyer & Pierre Even
  - Gameplay & game concept by Mathieu Voyer & Pierre Even
+ - Powered by Unreal Engine 4
 
 ### Videos
 
@@ -26,7 +30,7 @@ Homemade flight model
 After the initial release, i've decided to go further for the fun.
 So i created a pseudo-realistic aerodynamic simulation, then i've changed the inital plane with something that have more chances to fly in real life.
 
-I also worked on infinite procedural landscape generation to se what i can do with the knowledges i've gained since my last attempt.
+I also worked on infinite procedural landscape generation to se what i can do with the knowledges i've gained since my last attempt. (Implementation of my procedural landscape library used on GLEngine)
 
 Here is my result:
 
